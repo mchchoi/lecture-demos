@@ -40,7 +40,7 @@ upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
 
 ## Step 2: Let's See if it Worked (files are added...)
 
-Uploading this file right now!
+I am testing this to sync my fork!
 
 ## Step 3: Sync your Fork
 
